@@ -1,4 +1,4 @@
-// Created by Yaniv Levizada and Sapir Daga, Algo 2 assignment.
+
 
 #include<iostream>
 #include<vector>
